@@ -11,11 +11,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Data files (you never push raw/processed/model files)
-data/raw/*
-data/processed/*
-data/models/*
-
 # Logs
 logs/
 
