@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yaswanth/mlops_app:latest
+        tags: yaswanthkumar13/mlops_app:latest
