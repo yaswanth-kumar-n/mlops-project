@@ -1,0 +1,30 @@
+# Python venv
+.venv/
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (you never push raw/processed/model files)
+data/raw/*
+data/processed/*
+data/models/*
+
+# Logs
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Docker ignored
+*.dockerignore
+docker/*.tmp
+
+# OS files
+.DS_Store

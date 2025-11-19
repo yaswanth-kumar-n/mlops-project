@@ -1,0 +1,10 @@
+data:
+  raw_path: "data/raw/sample.csv"
+  processed_path: "data/processed/processed.csv"
+
+model:
+  path: "data/models/model.pkl"
+  target_column: "target"
+
+mlflow:
+  experiment_name: "mlops_survival_experiment"
